@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Sweet Dreams favicon">
-  <title>Sweet Dreams favicon</title>
-  <rect width="128" height="128" rx="28" fill="#030213" />
-  <circle cx="60" cy="58" r="36" fill="#f6c453" />
-  <circle cx="78" cy="50" r="32" fill="#030213" />
-  <circle cx="50" cy="48" r="18" fill="#fde4aa" />
-  <circle cx="90" cy="32" r="8" fill="#ffffff" />
-  <circle cx="98" cy="52" r="6" fill="#ffffff" />
-  <circle cx="80" cy="70" r="5" fill="#ffffff" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Sweet Dreams logo favicon">
+  <title>Sweet Dreams logo favicon</title>
+  <rect width="128" height="128" fill="#ffffff" />
+  <image href="data:image/webp;base64,UklGRsADAABXRUJQVlA4ILQDAAAQFQCdASpQAFAAPmEwkUckIyGhI/qsAIAMCWcAHaS5GOvH+tc9r2z9keIIxf+ofkl5gG6e/vXgg7MTjf8j/yPf3yiv55/dvy35gbtX2AP5N/R/8t91Xxlf1X3Ge1D5R/1XuC/yT+b/7P+08Lt+wBkIzZnsW2rRu+tzkvbRJMbWt8U+YPt44HiWcGRTXYI+/n7Jrkc5aCXUyWemVIbfDwwUvoo0/07TkyX1HwIt7SwRH4AA/v1peiXkP+hj7tevS8cocJ3FmEeExQz0F3Eb8pdYglBZIBoqtAdnDt7J8KLuijxqswcm9L59h8ZI27P9boySnyqoagMa0OhKwhGtmC4FV/mDo3/gJXjrFKeKhcX/QV0CdP32ZQlh1j7DXsf6/SCJZ+a7w5z7wYsBG/YoDJ3eku5hGwGlZXHWx542OD9zd7yRx9XTL/3i3fDyfifiQUXKD6a6LLLIRMgKh95G6RgMeXHBppLi+HtCET6gPBd0OKFY4Su4eOH8jZHPN9oho/ziNj2DHU48Oh4f0wCf9r0AhzPeuOREH7t8epzQ9nZNL//FKnOGI3Bvy1n3qt6Y0lrp6+xk4swvzz5qX2xNLFcM3gOIUpWSpiZMpcYMkg43zBQcJFhdQJci5aj5Yx2UwZKsCcjIFWHdmTQGSPvpBj/i3k6FVsNgfINr7zMi+BKtF7yMRTBu3hJig33pvSruPwHGUe80ZGwao6LNVuzCcHDStva1b89/KyKBR67Z5MspkPoKwSSOMG/zhGfwkFLTQu6XPqkQvJIYFNQLG5QWR/1/6rhsePf+/SX3Gvk//+DX/q5Rf5/5/z99f+j8Q3PJGLWOKsYfZJ1/PWWFFUqlJFQm0NXWvhyNZfiRC/7/xnSxK7s6uh0EdH/5WhxS/rz25Npej/P7iMXA8lCSQnH19mULNQujH7f/fFqwv/mZWjS5H3INz1mc3KOkBvP/YkB/8ndv/M7+lBfzGGL6GomHvzN5fhU8ap4/XYwVePPtUyD+2rSAuyPuSB+XZg4BVS6RPWLWYfI6NXwkuBpBolXg26mrmVY1JRkboEX9v8g/YsaT8+tUIN/m55XR7rPx//vhL8ttQGjKL9zZxMsU4PrpqkMh+O53tgergg2PP/1TRWW7H4oxYi2MEDFU/MBp/WP9FPjtsWj/M2S/8cfqlEeHCDpQu6azV6fLOPldndRvJvVLUf3g8doQcsUWCGKU0n+rlxrbAzXNDDg+AWXK7ElKGxg6e4O+1r2h9T/6ZQvpQJmrgC9AAAA=" x="0" y="0" width="128" height="128" preserveAspectRatio="xMidYMid meet" />
 </svg>
