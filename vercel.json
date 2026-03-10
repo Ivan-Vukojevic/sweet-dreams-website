@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "sweetdreamsosijek.eu"
+        }
+      ],
+      "destination": "https://www.sweetdreamsosijek.eu/$1",
+      "permanent": true
+    }
+  ]
+}
