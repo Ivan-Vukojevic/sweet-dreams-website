@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sweetdreamsosijek.eu/sitemap.xml
+Sitemap: https://www.sweetdreamsosijek.eu/sitemap.xml
